@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HelloKanban/static/css/main.408e2398.css",
+    "main.js": "/HelloKanban/static/js/main.b3afa678.js",
+    "static/media/Done.svg": "/HelloKanban/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "index.html": "/HelloKanban/index.html",
+    "main.408e2398.css.map": "/HelloKanban/static/css/main.408e2398.css.map",
+    "main.b3afa678.js.map": "/HelloKanban/static/js/main.b3afa678.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.408e2398.css",
+    "static/js/main.b3afa678.js"
+  ]
+}
